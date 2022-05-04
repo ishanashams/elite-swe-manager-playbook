@@ -1,5 +1,5 @@
-# Digital Services Playbook
+# Playbook for Elite Engineering Managers — by Dr. Ishan Shams
 
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we can make the delivery of our policy and programs more effective.   
+This software engineering playbook is designed to help software engineers transition into becoming elite engineering managers. It covers topics such as what Engineering Management is, what makes an elite engineering manager, how to successfully lead a team, how to effectively collaborate with other teams, and more. This playbook is essential for anyone looking to become an effective engineering manager. 
 
-Today, too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. Government needs a new approach. We created a playbook of 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
+Whether you are just starting out in software engineering or want to take on greater managerial responsibilities, this playbook is here to guide you every step of the way. So if you're ready to elevate your software engineering career and become an elite engineering manager, then this playbook is for you! Let's get started. 
